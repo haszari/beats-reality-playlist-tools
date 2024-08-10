@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NML VERSION="20">
+  <HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor Pro 4"></HEAD>
+  <COLLECTION ENTRIES="16">
+    <ENTRY
+      AUDIO_ID="ATYkM0NDMzNDNEREQzRFVFaFRERERUeHVVVEVVZ4dlVVVmZ3h2Z2Z2ZmeHd3Z3d4eZiIiIr////////////////////////////////97//////////////////////////////////////////////////4ZWVWVmVHRHl1i6l1hGrFaruGaEi7WLuoWHWrlpy6hpVrxnrLl3h3iod4Z3eIiZh3d3eIiJmIiIiJmZqqqnRa////////////////z//////////////////////////////////////////////////P////////////////13ZmVVVEVEREREMyIg=="
+      TITLE="I Love You So" ARTIST="Sugar Hill">
+      <LOCATION WEBADDRESS="beatport://tracks/18339259"></LOCATION>
+      <ALBUM TITLE="I Love You So"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128007" GENRE="Deep House" LABEL="TRANSA RECORDS"
+        COVERARTID="041/JNHL0JCHEHAVHCEP3NBOAY5OINYC" MIX="(Extended mix)" CATALOG_NO="TRANSA613"
+        PLAYCOUNT="1" PLAYTIME="310" PLAYTIME_FLOAT="310.000000" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2023/11/27" FLAGS="12"></INFO>
+      <TEMPO BPM="124.000206" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-2.308946" PERCEIVED_DB="-0.377869" ANALYZED_DB="-0.377869"></LOUDNESS>
+      <MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="26.243905" LEN="0.000000" REPEATS="-1"
+        HOTCUE="-1">
+        <GRID BPM="124.000206"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="26.243905" LEN="0.000000" REPEATS="-1"
+        HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="ASJP//7u7+7///7v7u7/7v/+7v7u/u///uYhIkjf8yHf/hIY/4EW//REff9nf//Hl8/5h+//NHvLumipmpeKmql4eHdd////////////////////////////////////3+3vzP3P/P/////8/9u7loqJmXmqzIiIiJz//////////////////////////////////////9//7u7+//////553//////////////////////////////////////+/+/v/////////v////////7////////t/+M0//hETf9DLv/jVJ/4IX//Myb/4iP/+ERN/0Id/+NUn/khf/9FQg=="
+      TITLE="Happier (feat. Clementine Douglas)" ARTIST="The Blessed Madonna, Clementine Douglas">
+      <LOCATION WEBADDRESS="beatport://tracks/18558911"></LOCATION>
+      <ALBUM TITLE="Happier (feat. Clementine Douglas) [Extended]"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Deep House" LABEL="Warner Records"
+        COVERARTID="079/PGCRSYD14SB0ECY5EARKB4TM5S4C" MIX="Extended" CATALOG_NO="5054197941146"
+        PLAYCOUNT="1" PLAYTIME="291" PLAYTIME_FLOAT="290.076996" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2024/2/2" FLAGS="12"></INFO>
+      <TEMPO BPM="126.000053" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-2.120684" PERCEIVED_DB="-2.326271" ANALYZED_DB="-2.326271"></LOUDNESS>
+      <MUSICAL_KEY VALUE="7"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="265.584290" LEN="0.000000"
+        REPEATS="-1" HOTCUE="-1">
+        <GRID BPM="126.000053"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="265.584290" LEN="0.000000"
+        REPEATS="-1" HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AdImZmZmZmZmZm/////////////////////////////////8iYiIiJmZmZn///////////////////+Inf/////////////////////7mZmamaqqqqv///////////////////uIn//////////////////////6mZiIiZiIiIiamYiJmpmKmqqZmqqrqpu6u8uKqImZmZmZmYiIiJqpmYmau7qqmqqZms//////////////////////////////////mZmZmaqqq6r///////////////////////////////////////////l///////////////////////IAAA=="
+      TITLE="Get Together" ARTIST="Dilby">
+      <LOCATION WEBADDRESS="beatport://tracks/18874274"></LOCATION>
+      <ALBUM TITLE="Get Together"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Deep House" LABEL="Deepalma"
+        COVERARTID="026/02CCD3A14BSTOBTZ2YWRDEBK0BSB" MIX="Extended Mix" CATALOG_NO="DPLM178"
+        PLAYCOUNT="1" PLAYTIME="466" PLAYTIME_FLOAT="466.000000" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2024/4/26" FLAGS="12"></INFO>
+      <TEMPO BPM="124.999611" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-1.811886" PERCEIVED_DB="0.215843" ANALYZED_DB="0.215843"></LOUDNESS>
+      <MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="100.745499" LEN="0.000000"
+        REPEATS="-1" HOTCUE="-1">
+        <GRID BPM="124.999611"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="100.745499" LEN="0.000000"
+        REPEATS="-1" HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="Aalburu7uru7u7u7u7u7u7u7y7y7u7y7zLt0RVVXeu3+7t3d7v7t3d7f/u3d39/+3t7u/+7u3v3/7th77//+7u/v/+7u7///7u7+//7u7GZmVVVVVWVmZ5/v/u3d7v//7u7t//7u3f7//uyO/+/u/v//79/u///+797v/v7pv+/+7v7+/+/u/v///9/t7v7+79/u/cu6q5uambqmM0QzFEMmJVRkRERERGeYZIdYZ3VXV0V2dnZVVWZmVWiYdmd2Z3ZoqZd4l3h3eGfP///v/////+///////+///+7+///v7u7+//7dp97+7t3d7v7t3e7ezLqqmHdVREMhAAAAAA=="
+      TITLE="That's Right" ARTIST="Dam Swindle">
+      <LOCATION WEBADDRESS="beatport://tracks/18141974"></LOCATION>
+      <ALBUM TITLE="Minor Fools"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Deep House" LABEL="Heist Recordings"
+        COVERARTID="125/31CJDBCIMZ2ZWDQHAKKQDJKZ1SPB" MIX="Original Mix" CATALOG_NO="HEIST077D"
+        PLAYCOUNT="1" PLAYTIME="425" PLAYTIME_FLOAT="424.600006" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2023/10/20" FLAGS="12"></INFO>
+      <TEMPO BPM="120.000053" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-1.861583" PERCEIVED_DB="1.238998" ANALYZED_DB="1.238998"></LOUDNESS>
+      <MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="103.641808" LEN="0.000000"
+        REPEATS="-1" HOTCUE="-1">
+        <GRID BPM="120.000053"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="103.641808" LEN="0.000000"
+        REPEATS="-1" HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AXqd3NzbzO/Nzc3Mz9zM3Nvf7NzMzc7+zc3M3f3s3Nzc/93ezc3Md3d2djz/////////////////////////uJ//////////////yYiImIiXVWVUVr/////////////////////////9if/////////////////////////6jP/////////////9uqu6msuXmJd4i3Z2dldmdmhmZXf/////////////////////////+oz//////////////KqZmZqHdYZmV47/////////////////////////uM/t3Nzc7+7dzc3P/t3d3Nz97d3dzdlmZmdmd3ZlZ3ZzAAAAAA=="
+      TITLE="Inside My Mind" ARTIST="Deeplomatik">
+      <LOCATION WEBADDRESS="beatport://tracks/18720175"></LOCATION>
+      <ALBUM TITLE="Inside My Mind"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128002" GENRE="Deep House" LABEL="Sublease Music" REMIXER="Dilby"
+        COVERARTID="063/5RYJWQD0HTL3SCJSP3V1A2NFRP3C" MIX="Dilby Remix" CATALOG_NO="SLM040"
+        PLAYCOUNT="1" PLAYTIME="379" PLAYTIME_FLOAT="378.272980" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2024/4/5" FLAGS="12"></INFO>
+      <TEMPO BPM="123.999817" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-1.653484" PERCEIVED_DB="-2.013489" ANALYZED_DB="-2.013489"></LOUDNESS>
+      <MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1.750092" LEN="0.000000" REPEATS="-1"
+        HOTCUE="-1">
+        <GRID BPM="123.999817"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="1.750092" LEN="0.000000" REPEATS="-1"
+        HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AQRHd4d2Z3d4h3d3iIZ4h4iIiKmbh4uXmZiruryIrJmpqoqYiHiXiFiam5eoeJaGWK3O7ai9qMuLzM3tmL2Z7/////////////////////////////////////////////////////////////////////////////////////2Kl5h4l5dZmZmYl4mHhmnN3/2c3ZvarO3e7Kzdrf////////////////////////////////////////////////////////////////////////////////////////7//+/+/////v//7/7//v/+//7/7////+///v/v0gAAAA=="
+      TITLE="My Love" ARTIST="Route 94, Jess Glynne">
+      <LOCATION WEBADDRESS="beatport://tracks/10925513"></LOCATION>
+      <ALBUM TITLE="My Love"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Deep House" LABEL="Rinse"
+        COVERARTID="024/YI1IE0C03NWJWDAYRPHKALB2VAYA" MIX="Original Mix" CATALOG_NO="800071006402"
+        PLAYCOUNT="1" PLAYTIME="260" PLAYTIME_FLOAT="259.933990" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2023/3/2" FLAGS="12"></INFO>
+      <TEMPO BPM="119.999451" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-2.388551" PERCEIVED_DB="0.010017" ANALYZED_DB="0.010017"></LOUDNESS>
+      <MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="127.198115" LEN="0.000000"
+        REPEATS="-1" HOTCUE="-1">
+        <GRID BPM="119.999451"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="127.198115" LEN="0.000000"
+        REPEATS="-1" HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY MODIFIED_DATE="2024/8/8" MODIFIED_TIME="27466"
+      AUDIO_ID="AZsREhERIpqaqaqavb3d2u3drt2ke9vOzr3s697Ove3b7d2/3dz/+3n/7//+///////9///////////d////////////////////////////////////////////////////7tva7b2uzNrr3+ysusm7vKy929rv//////////////////////////////////////6u3urs7b7f7O////////////////////////////////////////////3v////////////////////////3/////////////////////////7tu6qqqqqqqquqqaqaqamqmqmoIjIQAAAAAA=="
+      TITLE="Location" ARTIST="Crew Deep">
+      <LOCATION WEBADDRESS="beatport://tracks/17688421"></LOCATION>
+      <ALBUM TITLE="Location (Remix Version)"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Deep House" LABEL="I Records" REMIXER="T.Markakis"
+        COVERARTID="080/QOTTAOAOLNO0ZCFEJXF2A5BVXQFA" MIX="T.Markakis Remix Extended"
+        CATALOG_NO="IRECEPIREC1200D1TRSPDBP" PLAYCOUNT="1" PLAYTIME="411"
+        PLAYTIME_FLOAT="410.998016" IMPORT_DATE="2024/8/8" LAST_PLAYED="2024/8/8"
+        RELEASE_DATE="2023/5/19" FLAGS="12"></INFO>
+      <TEMPO BPM="121.998962" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-1.612706" PERCEIVED_DB="-0.204712" ANALYZED_DB="-0.204712"></LOUDNESS>
+      <MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="1965.898991" LEN="0.000000"
+        REPEATS="-1" HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1967.898991" LEN="0.000000"
+        REPEATS="-1" HOTCUE="-1">
+        <GRID BPM="121.998962"></GRID>
+      </CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AXYSIhIiISIiEiIhMzMzMzMzMzMzOv39z8/d//3f38/t+/7vv//s+4e/z938/e//3u79/u/P7v3//t/f7f3939/e//z+78/u/P7+3//t/f00MTNDETRjMzQiRDM0QiRWVFZ3jv78/u+///z+/s/f7f393//e/af////////////////////////97////////////+/P3fz87u+/5haaqpqTTKmrmrzJineXQiVoVlZ3v+/9/f3f/+39/e/fz+78///P233////////////////////////978/d/P3f787t/P7vz978//7f3p38/d/f3v/8/u/P7vz9/mdoZXWFEA=="
+      TITLE="Desire" ARTIST="Chris Stussy">
+      <LOCATION WEBADDRESS="beatport://tracks/18595617"></LOCATION>
+      <ALBUM TITLE="Desire"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Deep House" LABEL="CSS"
+        COVERARTID="002/CUHGQ4BXCNF3IAA0KLMIBUZ5ACXB" MIX="Extended" CATALOG_NO="CSS-001B"
+        PLAYCOUNT="1" PLAYTIME="375" PLAYTIME_FLOAT="374.337982" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2024/2/9" FLAGS="12"></INFO>
+      <TEMPO BPM="133.999893" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-0.993698" PERCEIVED_DB="-0.308533" ANALYZED_DB="-0.308533"></LOUDNESS>
+      <MUSICAL_KEY VALUE="20"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="12.878957" LEN="0.000000" REPEATS="-1"
+        HOTCUE="-1">
+        <GRID BPM="133.999893"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="12.878957" LEN="0.000000" REPEATS="-1"
+        HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AaJ5qpqZqZqaqaqaqqqqqqqqqqqqq6q6q6q7u6u6u7yrurury7urtzXOzMzdzd3czc3d3d7czM3c3Ll3jd3Nzdzd3dzdzd3tzd3d3t3Hh3m1VEVERURURERWhmdURFeFaHRHdUWmQ0RYdpdkNL3N3d3e3N3Nzd3e3t3t7t3d3tuN7d7d7u7d7d7e63VEd0VoZUWIZ8llVkRWl1VamGZEVFdlVUVUVDRXp5d3WXl3hXY0rt3t3e7d3d3d7e7e7e3e7d3v3e3t3t3e7d3t3t6nd3zd3d3d3d3O3NzNzN3dzNzczczLzLvLu7u7u4RTIzQjQyNjMiRSIiMjMzIjIyJCAA=="
+      TITLE="No Eyes Feat. Jaw" ARTIST="Claptone">
+      <LOCATION WEBADDRESS="beatport://tracks/4085626"></LOCATION>
+      <ALBUM TITLE="No Eyes"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="134384" GENRE="Deep House" LABEL="Exploited"
+        COVERARTID="015/PQNB31AJVXUWSB4VH4CAD0BDQEZC" MIX="Original Mix" CATALOG_NO="EXPDIGITAL28"
+        PLAYCOUNT="1" PLAYTIME="419" PLAYTIME_FLOAT="418.351013" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2013/1/21" FLAGS="12"></INFO>
+      <TEMPO BPM="119.997185" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-1.526682" PERCEIVED_DB="2.496140" ANALYZED_DB="2.496140"></LOUDNESS>
+      <MUSICAL_KEY VALUE="17"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="2.197189" LEN="0.000000" REPEATS="-1"
+        HOTCUE="-1">
+        <GRID BPM="119.997185"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="2.197189" LEN="0.000000" REPEATS="-1"
+        HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AYJYiJmHmKiIiYeXmZmZqImKiZmWNEV5iZqJmamZmqiZqZmpuZmaqZmqmZqpmpuZmaqamqmZmpmpuZmqqamoVVWPzb/9zc/72/+tr/zc78vc/r2/+tr/3M79vb/72v++r/3M39rb/72v++v/zNz+vb/76v++v/7Nz+vb/66v+9nIIjU0Y4iYmHd7qXmHd5yXiHiqqImJiZiKqImamYh4iFZ1R2mFV2VndoZ6iYmZioqImJmJg5iZmZioqImZmJg7+tr/vq/9zM/a2/+9r/za/9vM/r2v++r/zb79zc/86/++r/3b7+zr5VU8qKi5mZqomaqZmamKi5mZqYmKmIlEEA=="
+      TITLE="Native Riddim" ARTIST="Coeo">
+      <LOCATION WEBADDRESS="beatport://tracks/18856503"></LOCATION>
+      <ALBUM TITLE="Toy Tonics Jam Hits 2"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128003" GENRE="Deep House" LABEL="Toy Tonics"
+        COVERARTID="094/4O2HBGBP20ENDDP0M3SJC3A4U0FB" MIX="Original Mix" CATALOG_NO="TOYT165"
+        PLAYCOUNT="1" PLAYTIME="387" PLAYTIME_FLOAT="386.053955" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2024/5/3" FLAGS="12"></INFO>
+      <TEMPO BPM="120.000046" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-0.774953" PERCEIVED_DB="1.705704" ANALYZED_DB="1.705704"></LOUDNESS>
+      <MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="56.848720" LEN="0.000000" REPEATS="-1"
+        HOTCUE="-1">
+        <GRID BPM="120.000046"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="56.848720" LEN="0.000000" REPEATS="-1"
+        HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AaFpqpqpqpqZqpqqqrqqq5qquqq6vt3s7d3e3t7+7u7u7+7+/u7v7/7+7v/v7+/+/v/cqqzLq8uqvLu9/v7/7+/+///v/+///v7/7//+/v7/7//+/v/v7////v7/7+/+/v+6qpqqqaqpmqmqqZmamZmZmIh3mnh6qJm6iauqq8qqvKqsyqq7qrzMyqqZvKqpqJq6qnh3eJaGVnu9/v7//+/v/v////////7//+/+7////////////////////+/////u/+///////+////7//+////7/7+////7/7+////7//+/v7/7+78zP7v7u7u7e7u3u3d7dzNvLu7uUEAAAAA=="
+      TITLE="Pushing On" ARTIST="Oliver Dollar, Jimi Jules">
+      <LOCATION WEBADDRESS="beatport://tracks/5252087"></LOCATION>
+      <ALBUM TITLE="Pushing On"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="138967" GENRE="Deep House" LABEL="Defected"
+        COVERARTID="107/LPIXCWDDOHFNYDJ4KAMEBZOMHQYA" MIX="Original Mix" CATALOG_NO="DFTD429D1"
+        PLAYCOUNT="1" PLAYTIME="418" PLAYTIME_FLOAT="417.145996" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2014/3/24" FLAGS="12"></INFO>
+      <TEMPO BPM="122.000130" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-2.732107" PERCEIVED_DB="-0.050652" ANALYZED_DB="-0.050652"></LOUDNESS>
+      <MUSICAL_KEY VALUE="23"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="26.199203" LEN="0.000000" REPEATS="-1"
+        HOTCUE="-1">
+        <GRID BPM="122.000130"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="26.199203" LEN="0.000000" REPEATS="-1"
+        HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AdFd3d3d3d3d3dzMzMzMzMzMzMzMzMzMzEERf/3f/d/97v3t/+7/7v/u/Tf//////////v/+//+2hEaWj///////////////////////////////////////////+jRERERERFRTU0RUREREREQzQ0NDMzM0NDQzNDQzNDQzRu////////////////////////////////////////+pl6/////////////////////+eWd6d3qGaZZYhFeUVZRUNG7////////////////////////////////////////7eGr//v/u//7//u/+7/7v/u/+7t7e3t7e3d3YEREREQ=="
+      TITLE="Forces" ARTIST="Mihai Popoviciu">
+      <LOCATION WEBADDRESS="beatport://tracks/18858332"></LOCATION>
+      <ALBUM TITLE="Deep Value, Vol. 8 (Incl. Dj Mix)"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Deep House" LABEL="Bondage Music"
+        COVERARTID="056/YNVC0EAKKX3ASAKUB1C3DYYIKW3A" MIX="Original Mix" CATALOG_NO="BONDEXTRA018"
+        PLAYCOUNT="1" PLAYTIME="466" PLAYTIME_FLOAT="465.374969" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2024/4/26" FLAGS="12"></INFO>
+      <TEMPO BPM="125.999855" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-0.726305" PERCEIVED_DB="1.582283" ANALYZED_DB="1.582283"></LOUDNESS>
+      <MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="222.046494" LEN="0.000000"
+        REPEATS="-1" HOTCUE="-1">
+        <GRID BPM="125.999855"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="222.046494" LEN="0.000000"
+        REPEATS="-1" HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AdKMzMzMzMzMzMzMzMzMzMtEVb3czNzM3MzMzM3MzczNykRH3u7u/+7u/u/+7+7u7u/reHd2h4dlVmVVZWZnd3ZVVlVWaf/+//////7//////9ZVVEVs/////////////+///////+hnd2ZmVndmZoiId3ZmZ3Z2Zmd2Zmdmd2ZnZndmd2Znd2WO7/7//v/+/+7v///9h3dmRL///////////v//////////uZmamHd3d4Znd4eHZURENDRmZVVVZnd5iJmqqZmYmId3aO7u7u7u/u7u7u7u7u7u7u7u7u7u7u7u7u7+7u7u7e7u7u7u3d7t3e3d7e7u7e3t7u3u1A=="
+      TITLE="Astra" ARTIST="Sasha, Super Flu">
+      <LOCATION WEBADDRESS="beatport://tracks/18996351"></LOCATION>
+      <ALBUM TITLE="Astra"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Melodic House &amp; Techno" LABEL="Last Night On Earth"
+        COVERARTID="031/5EMAHHAPBTZ1SCVABX2ICOA213PC" MIX="Sasha's Daydream Mix"
+        CATALOG_NO="LNOE155" PLAYCOUNT="1" PLAYTIME="466" PLAYTIME_FLOAT="465.588989"
+        IMPORT_DATE="2024/8/8" LAST_PLAYED="2024/8/8" RELEASE_DATE="2024/5/24" FLAGS="12"></INFO>
+      <TEMPO BPM="123.999924" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-1.210053" PERCEIVED_DB="2.250908" ANALYZED_DB="2.250908"></LOUDNESS>
+      <MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="25.067683" LEN="0.000000" REPEATS="-1"
+        HOTCUE="-1">
+        <GRID BPM="123.999924"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="25.067683" LEN="0.000000" REPEATS="-1"
+        HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="AVEc3979/t/u7t79/t/O/f7u7u/e/P3fg4//7/7v3/3+79/+7f/9/9/9///v//8y7/////////////iP//////////////9UI0EzE0RTJDJDNENGRGNWNkMjRCMQHP////9Df//////2//////+a/////2RP/////////////+////v//z////7v77ERERERISR1RzRkVld1dld2gzQzIiAD//////+//////2WP//////7/////9Ej//////8//////7////////v////+zPf///////////////////////////////////////////////////////////7AAAA=="
+      TITLE="Moonlight" ARTIST="Mandragora, Beltran (BR)">
+      <LOCATION WEBADDRESS="beatport://tracks/18308749"></LOCATION>
+      <ALBUM TITLE="Moonlight"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Minimal / Deep Tech" LABEL="Revival New York"
+        COVERARTID="066/C0H1DNCT2BD2ECPLL2UPDLOSI3LB" MIX="Original Mix" CATALOG_NO="RNY039"
+        PLAYCOUNT="1" PLAYTIME="337" PLAYTIME_FLOAT="337.000000" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2023/12/8" FLAGS="12"></INFO>
+      <TEMPO BPM="127.000031" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-1.512215" PERCEIVED_DB="2.013245" ANALYZED_DB="2.013245"></LOUDNESS>
+      <MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="501.493096" LEN="0.000000"
+        REPEATS="-1" HOTCUE="-1">
+        <GRID BPM="127.000031"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="501.493096" LEN="0.000000"
+        REPEATS="-1" HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY
+      AUDIO_ID="Ad5pmZmZmZmZmZmZmZmZmZmZgyIiIiIjMzM4qqqqqqqqqqqqqqqqqqqqqrq7u7u6uru6u/79/f39/f39/f7+/v7+/vvb3Nzczc3Nzb6+vr+vr6+/7+/v7+/v7+/////K7//////+/v7+/v7+/v7+/v7+/v3+/u77/Ny87d7Nrd/f79/v7+/f7+/v7+/v7+7/7726vr3LyczbpENDRDIkRFQyMyJVM0RCQzRHhmZVRVRFfP/v39/f39/vn5+fr6+9v9///v/v//7//839//7//v7++/rs//7+/v7//+/+///v///v7//v79/v78y7u2e8y7vLu8vLy7u7u7uqqqqTIA=="
+      TITLE="Transverb" ARTIST="Lovebirds">
+      <LOCATION WEBADDRESS="beatport://tracks/1323042"></LOCATION>
+      <ALBUM TITLE="Best Before 2008"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="application"></MODIFICATION_INFO>
+      <INFO BITRATE="136620" GENRE="Deep House" LABEL="Knee Deep Recordings" MIX="Original Mix"
+        CATALOG_NO="KDR022" PLAYCOUNT="1" PLAYTIME="479" PLAYTIME_FLOAT="478.079987"
+        IMPORT_DATE="2024/8/8" LAST_PLAYED="2024/8/8" RELEASE_DATE="2010/7/30" FLAGS="12"></INFO>
+      <TEMPO BPM="124.999977" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-3.564633" PERCEIVED_DB="1.859711" ANALYZED_DB="1.859711"></LOUDNESS>
+      <MUSICAL_KEY VALUE="23"></MUSICAL_KEY>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="18.239304" LEN="0.000000" REPEATS="-1"
+        HOTCUE="-1">
+        <GRID BPM="124.999977"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="18.239304" LEN="0.000000" REPEATS="-1"
+        HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+    <ENTRY MODIFIED_DATE="2024/8/8" MODIFIED_TIME="29958"
+      AUDIO_ID="AVZs3M293f29y+y9zNvdvcvd78vczb3d/d7c7d7v7N3O3O3O3e3uzu793t3t3u/VRFRFRoVERFRVRERFRFVVd1VVVVVUQ8////////////////////////////dN///////////////////////////v/////+///////////////v//////7/p13////////////+/v//////////6ryZr+r53////5/Z/+/N+/yv///v3PrfxCv////////////////////////////////////////////////////////////8qIvcq6yoZXymU43Jedy7usp0ObuHUhAAAAAA=="
+      TITLE="African Technology" ARTIST="Hagan, Mxshi Mo">
+      <LOCATION WEBADDRESS="beatport://tracks/18585803"></LOCATION>
+      <ALBUM TITLE="Nkanyiso"></ALBUM>
+      <MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+      <INFO BITRATE="128000" GENRE="Amapiano" LABEL="More Time Records"
+        COVERARTID="122/0DMJ05BC3A3TSCDTRJXPBEPOOHMD" MIX="Original Mix" CATALOG_NO="MTRLP004"
+        PLAYCOUNT="1" PLAYTIME="343" PLAYTIME_FLOAT="342.014984" IMPORT_DATE="2024/8/8"
+        LAST_PLAYED="2024/8/8" RELEASE_DATE="2024/5/31" FLAGS="12" SUBGENRE="Gqom"></INFO>
+      <TEMPO BPM="125.999763" BPM_QUALITY="100.000000"></TEMPO>
+      <LOUDNESS PEAK_DB="-1.274135" PERCEIVED_DB="0.989906" ANALYZED_DB="0.989906"></LOUDNESS>
+      <MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+      <CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="79.842573" LEN="0.000000"
+        REPEATS="-1" HOTCUE="-1">
+        <GRID BPM="125.999763"></GRID>
+      </CUE_V2>
+      <CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="0" START="1751.414061" LEN="0.000000"
+        REPEATS="-1" HOTCUE="0" COLOR="#FFFFFF"></CUE_V2>
+    </ENTRY>
+  </COLLECTION>
+  <SETS ENTRIES="0"></SETS>
+  <PLAYLISTS>
+    <NODE TYPE="FOLDER" NAME="$ROOT">
+      <SUBNODES COUNT="1">
+        <NODE TYPE="PLAYLIST" NAME="HISTORY">
+          <PLAYLIST ENTRIES="16" TYPE="PROTOCOL" UUID="2f6b8b7b7b31455d8703184a7711295b">
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18595617"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="0" DURATION="376.352844" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="0" STARTDATE="132646920" STARTTIME="69159"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18141974"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="0" DURATION="434.922485" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="69671"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/10925513"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="1" DURATION="292.17038" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="69963"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/4085626"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="0" DURATION="361.995941" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="70192"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18856503"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="1" DURATION="368.628021" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="70412"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/17688421"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="0" DURATION="384.129944" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="70711"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/5252087"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="1" DURATION="361.202545" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="70970"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18339259"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="0" DURATION="341.268585" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="71221"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18720175"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="1" DURATION="421.248596" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="71472"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18996351"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="0" DURATION="357.351776" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="71738"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18874274"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="1" DURATION="435.524078" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="72017"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/1323042"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="0" DURATION="368.610565" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="72235"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18558911"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="3" DURATION="261.55014" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="72557"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18858332"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="0" DURATION="366.611084" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="72727"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18308749"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="3" DURATION="403.979645" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="72903"></EXTENDEDDATA>
+            </ENTRY>
+            <ENTRY>
+              <PRIMARYKEY TYPE="TRACK" KEY="beatport://tracks/18585803"></PRIMARYKEY>
+              <EXTENDEDDATA DECK="0" DURATION="335.159637" EXTENDEDTYPE="HistoryData"
+                PLAYEDPUBLIC="1" STARTDATE="132646920" STARTTIME="73246"></EXTENDEDDATA>
+            </ENTRY>
+          </PLAYLIST>
+        </NODE>
+      </SUBNODES>
+    </NODE>
+  </PLAYLISTS>
+  <INDEXING></INDEXING>
+</NML>
