@@ -157,7 +157,7 @@ nmlData?.NML?.COLLECTION?.ENTRY.forEach(element => {
   };
 
   const webaddress = element?.LOCATION['@.WEBADDRESS'];
-  const filename = element?.LOCATION['@.DIR'] + element?.LOCATION['@.FILE'];
+  const filename = element?.LOCATION['@.FILE'];
 
   // Stash the URL or file path so we can later re-sort by play order.
   if ( webaddress ) {
@@ -200,9 +200,11 @@ nmlData?.NML?.COLLECTION?.ENTRY.forEach(element => {
 const sortedTracks = [];
 nmlData?.NML?.PLAYLISTS?.NODE?.SUBNODES?.NODE?.PLAYLIST?.ENTRY.forEach(element => {
   const key = element?.PRIMARYKEY['@.KEY'];
-  const tune = ymlData.tracks.find(tune => tune.playlistKey === key);
-  if (tune) {
-    sortedTracks.push(tune);
+  if (key) {
+    const tune = ymlData.tracks.find(tune => key.endsWith(tune.playlistKey));
+    if (tune) {
+      sortedTracks.push(tune);
+    }
   }
 });
 ymlData.tracks = sortedTracks;
