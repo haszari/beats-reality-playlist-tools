@@ -156,6 +156,16 @@ nmlData?.NML?.COLLECTION?.ENTRY.forEach(element => {
     duration: element['@.ARTIST'],
   };
 
+  const webaddress = element?.LOCATION['@.WEBADDRESS'];
+  const filename = element?.LOCATION['@.DIR'] + element?.LOCATION['@.FILE'];
+
+  // Stash the URL or file path so we can later re-sort by play order.
+  if ( webaddress ) {
+    tune.playlistKey = webaddress;
+  } else {
+    tune.playlistKey = filename;
+  }
+
   tune.cat_no = element?.INFO['@.CATALOG_NO'];
   tune.genres = element?.INFO['@.GENRE'];
   tune.mix_version = element?.INFO['@.MIX'];
@@ -185,6 +195,18 @@ nmlData?.NML?.COLLECTION?.ENTRY.forEach(element => {
   ymlData.tracks.push(tune);
 });
 
+// Sort by play order.
+// This will also strip any songs in COLLECTION that aren't in the playlist.
+const sortedTracks = [];
+nmlData?.NML?.PLAYLISTS?.NODE?.SUBNODES?.NODE?.PLAYLIST?.ENTRY.forEach(element => {
+  const key = element?.PRIMARYKEY['@.KEY'];
+  const tune = ymlData.tracks.find(tune => tune.playlistKey === key);
+  if (tune) {
+    sortedTracks.push(tune);
+  }
+});
+ymlData.tracks = sortedTracks;
+
 // Async lookup of each track, adding file metadata from Spotify.
 if (spotifyToken) {
   for await (const tune of ymlData.tracks) {
@@ -207,7 +229,10 @@ if (spotifyToken) {
   }
 }
 
+
 // Uniquify genres.
+// Future: standardise genres.
+// Future: split comma separated genres.
 ymlData.genres = ymlData.genres.filter((value, index, array) => array.indexOf(value) === index);
 
 // Write output.
