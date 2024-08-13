@@ -23,7 +23,6 @@ async function getSpotifyAuthToken() {
   const client_id = process.env.SPOTIFY_CLIENT_ID;
   const client_secret = process.env.SPOTIFY_CLIENT_SECRET;
 
-  console.log(`Using Spotify client ID: ${client_id} and secret: ${client_secret}`);
 
   if (!client_id || !client_secret) {
     return null;
