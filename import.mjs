@@ -78,6 +78,54 @@ async function searchSpotifyMetadata({ artists, title, spotifyToken }) {
   return { trackDetails, coverArtUrl };
 }
 
+// Strip brackets around version and standardise various common forms.
+function normaliseMixVersion( version ) {
+  if (!version) {
+    return null;
+  }
+
+  // Remove any brackets, anywhere.
+  version = version.replaceAll(/\(/g, '');
+  version = version.replaceAll(/\)/g, '');
+  version = version.replaceAll(/\[/g, '');
+  version = version.replaceAll(/\]/g, '');
+  version = version.replaceAll(/\{/g, '');
+  version = version.replaceAll(/\}/g, '');
+
+  // Trim whitespace.
+  version = version.trim();
+
+  // Lowercase common words.
+  version = version.replaceAll(/original/gi, 'original');
+  version = version.replaceAll(/mix/gi, 'mix');
+  version = version.replaceAll(/remix/gi, 'remix');
+  version = version.replaceAll(/version/gi, 'version');
+  version = version.replaceAll(/dub/gi, 'dub');
+  version = version.replaceAll(/extended/gi, 'extended');
+  version = version.replaceAll(/radio/gi, 'radio');
+  version = version.replaceAll(/edit/gi, 'edit');
+
+  return version;
+}
+
+function normaliseTitle( title ) {
+  // Remove any brackets, anywhere.
+  title = title.replaceAll(/\(/g, '');
+  title = title.replaceAll(/\)/g, '');
+  title = title.replaceAll(/\[/g, '');
+  title = title.replaceAll(/\]/g, '');
+  title = title.replaceAll(/\{/g, '');
+  title = title.replaceAll(/\}/g, '');
+
+  // Trim whitespace.
+  title = title.trim();
+
+  // Make "Feat." smaller.
+  title = title.replaceAll(/Feat./gi, 'ft.');
+
+  return title;
+}
+
 //--------------------------------------------------------------------------------------------------
 // Main script - import an nml Traktor history file and convert it to a structured yaml.
 
@@ -116,9 +164,6 @@ nmlData?.NML?.COLLECTION?.ENTRY.forEach(element => {
   ymlData.genres.push(tune.genres);
 
   tune.remixer = element?.INFO['@.REMIXER'];
-  if (tune.remixer) {
-    tune.artists.push(tune.remixer);
-  }
 
   tune.tempo_raw = element?.TEMPO['@.BPM'];
   tune.tempo = Math.round(tune.tempo_raw);
@@ -131,22 +176,32 @@ nmlData?.NML?.COLLECTION?.ENTRY.forEach(element => {
     tune.duration = `${formatter.getUTCMinutes()}:${secondsString}`;
   }
 
+  tune.display = {
+    artists: tune.artists.join(' + '),
+    title: normaliseTitle( tune.title ) ,
+    version: normaliseMixVersion( tune.mix_version ),
+  }
+
   ymlData.tracks.push(tune);
 });
 
 // Async lookup of each track, adding file metadata from Spotify.
 if (spotifyToken) {
   for await (const tune of ymlData.tracks) {
+    const searchArtists = tune.artists;
+
     const spotifyDataPromise = searchSpotifyMetadata({
       spotifyToken,
-      artists: tune.artists,
+      artists: searchArtists,
       title: tune.title,
     });
 
     const { trackDetails, coverArtUrl } = await spotifyDataPromise;
 
+    tune.isrc = trackDetails?.external_ids?.isrc;
     tune.spotify = {
-      trackDetails,
+      url: trackDetails?.external_urls?.spotify,
+      release_date: trackDetails?.album?.release_date,
       coverArtUrl,
     };
   }
