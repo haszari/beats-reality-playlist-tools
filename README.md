@@ -1,3 +1,5 @@
+Deprecated – this script has moved to https://github.com/haszari/cbr-coverart-netlify
+
 # beats-reality-playlist-tools
 Tools for automating playlists, radio show metadata and content.
 
